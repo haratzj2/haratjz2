@@ -4,6 +4,18 @@ body {
   background-color: #282C35;
 }
 
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.heading p {
+  font-size: 9px;
+  text-decoration: line-through;
+}
 .gray {
   color: #969AA3;
 }
