@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+  background-color: #282C35;
+}
+
+.gray {
+  color: #969AA3;
+}
+
+.white {
+  color: #d5d9e0;
+}
+
+.pricesentence {
+  color: #ffffff;
+}
